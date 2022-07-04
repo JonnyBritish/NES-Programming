@@ -2,9 +2,6 @@
 
 Exploring what it takes to make a simple Nintendo NES game in 6502 Assembler
 
-## The Wiki
-[NesDev Wiki](https://www.nesdev.org/)
-
 ## Inspiring Videos on NES Programming
 
 [Writing NES Games! With Assembly!! by Christian Choudrey](https://www.youtube.com/watch?v=kXbMCKMJXXQ)<br>
@@ -13,6 +10,9 @@ Exploring what it takes to make a simple Nintendo NES game in 6502 Assembler
 ## Instructional Videos on NES Programming
 [Welcome to NES Hacker](https://www.youtube.com/watch?v=SW-oWUGgO1o&list=PLgvDB6LWam2WyoCVsGK_gkVG7bMODfF41)<br>
 [NES programming by Michael Chiaramonte](https://www.youtube.com/watch?v=XwGj1ciSAtw&list=PL29OkqO3wUxyF9BsTAgZkmCEVtC77rgff)
+
+## The Wiki
+[NesDev Wiki](https://www.nesdev.org/)
 
 ## Inspiring books on the NES platform
 
