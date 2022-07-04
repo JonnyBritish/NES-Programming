@@ -2,7 +2,7 @@
 
 Exploring what it takes to make a simple Nintendo NES game in 6502 Assembler
 
-# The Wiki
+## The Wiki
 [NesDev Wiki](https://www.nesdev.org/)
 
 # Inspiring Videos on NES Programming
