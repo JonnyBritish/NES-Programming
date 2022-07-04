@@ -2,6 +2,9 @@
 
 Exploring what it takes to make a simple Nintendo NES game in 6502 Assembler
 
+# The Wiki
+[NesDev Wiki](https://www.nesdev.org/)
+
 # Inspiring Videos on NES Programming
 
 [Writing NES Games! With Assembly!! by Christian Choudrey](https://www.youtube.com/watch?v=kXbMCKMJXXQ)<br>
@@ -17,5 +20,5 @@ Exploring what it takes to make a simple Nintendo NES game in 6502 Assembler
 [Making Games for the NES by Steven Hugg ](https://www.amazon.com/Making-Games-NES-Steven-Hugg/dp/1075952727)
 
 # The Tools you will need
-[Assembler - CC65](Insert URL)<br>
-[Emulator - FCEUX](Insert URL)
+[Assembler - CA65](https://cc65.github.io/)<br>
+[Emulator - FCEUX](https://fceux.com/web/home.html)
