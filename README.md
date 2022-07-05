@@ -2,6 +2,12 @@
 
 Exploring what it takes to make a simple Nintendo NES game in 6502 Assembler
 
+
+## Inspiring books on the NES platform
+
+[I Am Error by Nathan Altice](https://www.amazon.com/Am-Error-Nintendo-Computer-Entertainment/dp/0262028778)<br>
+[Making Games for the NES by Steven Hugg ](https://www.amazon.com/Making-Games-NES-Steven-Hugg/dp/1075952727)
+
 ## Inspiring Videos on NES Programming
 
 [Writing NES Games! With Assembly!! by Christian Choudrey](https://www.youtube.com/watch?v=kXbMCKMJXXQ)<br>
@@ -13,11 +19,6 @@ Exploring what it takes to make a simple Nintendo NES game in 6502 Assembler
 
 ## The Wiki
 [NesDev Wiki](https://www.nesdev.org/)
-
-## Inspiring books on the NES platform
-
-[I Am Error by Nathan Altice](https://www.amazon.com/Am-Error-Nintendo-Computer-Entertainment/dp/0262028778)<br>
-[Making Games for the NES by Steven Hugg ](https://www.amazon.com/Making-Games-NES-Steven-Hugg/dp/1075952727)
 
 ## The Tools you will need
 [Assembler - CA65](https://cc65.github.io/)<br>
